@@ -363,3 +363,31 @@ button { font:inherit; }
   border-bottom: 8px solid transparent;
   border-left: 13px solid #222;
 }
+
+.video-title-strip {
+  padding: 18px 24px 16px;
+  border-bottom: 1px solid var(--line);
+  background: #fff;
+}
+.video-title-main {
+  display: block;
+  font-family: var(--serif);
+  font-size: 20px;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.video-title-sub {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.4;
+}
+@media (max-width: 640px) {
+  .video-title-strip {
+    padding: 16px 20px 14px;
+  }
+  .video-title-main {
+    font-size: 19px;
+  }
+}
