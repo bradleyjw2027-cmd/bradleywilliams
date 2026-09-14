@@ -21,3 +21,18 @@ IMPORTANT
 GITHUB
 Upload the CONTENTS of this folder to the ROOT of the bradleywilliams repository.
 index.html should be directly in the repository root.
+
+
+RECOVERED FROM THE PREVIOUS WEBSITE
+- Résumé PDF: https://drive.google.com/file/d/1mvnorHgBcvUgmu7JAyCgSHUq9O-cGRMP/view?usp=sharing
+- Instagram: https://www.instagram.com/bradley_j_williams?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+- YouTube channel: https://www.youtube.com/@BradleySessions-p1o
+- Phantom of the Opera: https://youtu.be/jh11AfMgz7s?si=OAochRNRkczRtO2m
+- Bottom Line / Newsies: https://youtu.be/Z5vK0lTfNGQ?si=1kNYJ4Dmfmtf8sWB&t=14
+- How it Ends / Big Fish: https://youtu.be/i0TTzOoJ-EU?si=W6G39jZOZdySjTmH&t=114
+- Tonight at Eight / She Loves Me: https://youtu.be/ApjVilzJJQ4?si=793w3ViwpBxxmkFs
+- Everything to Win / Anastasia: https://youtu.be/oRE6mgVL8vE?si=3Qv8_Ngjm-LgUA46&t=59
+- This Little Light of Mine: https://youtu.be/Z6W6uis__Ng
+
+The original full-resolution embedded headshot was also recovered from the old HTML
+and is now used as assets/images/bradley-headshot.jpg.
