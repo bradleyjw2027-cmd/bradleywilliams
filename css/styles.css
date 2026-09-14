@@ -391,3 +391,71 @@ button { font:inherit; }
     font-size: 19px;
   }
 }
+
+
+/* === Final performance-card layout: image + always-visible caption beneath === */
+.reel-card {
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  overflow: hidden;
+  background: #fff;
+}
+.video-card-link {
+  display: block;
+  background: #fff;
+}
+.reel-card .thumb {
+  display: block;
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #ddd;
+}
+.reel-card .thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.video-caption {
+  display: block;
+  min-height: 132px;
+  padding: 20px 24px 22px;
+  background: #fff;
+  border-top: 1px solid var(--line);
+}
+.video-caption-source {
+  color: var(--gold);
+  text-transform: uppercase;
+  letter-spacing: .19em;
+  font-size: 11px;
+  font-weight: 500;
+}
+.video-caption h3 {
+  margin: 10px 0 8px;
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 22px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+.video-caption-platform {
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-size: 11px;
+}
+.video-card-link:hover .video-caption h3 {
+  color: var(--gold);
+}
+@media (max-width: 640px) {
+  .video-caption {
+    min-height: 0;
+    padding: 17px 19px 19px;
+  }
+  .video-caption h3 {
+    font-size: 21px;
+  }
+}
